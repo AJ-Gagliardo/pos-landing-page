@@ -23,6 +23,7 @@ function Nav() {
           >
             Soluciones
           </li>
+
           <li
             onClick={() => locate("price")}
             className="hover:text-orange-500 hover:cursor-pointer active:text-orange-700 transition duration-150 ease-in-out"
