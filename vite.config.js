@@ -4,6 +4,6 @@ import react from "@vitejs/plugin-react";
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/pos-landing-page/",
-  // base: "/",
+  // base: "/pos-landing-page/",
+  base: "/",
 });
